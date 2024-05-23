@@ -133,9 +133,10 @@ sup {
   top: -.5em; }
 
 a {
-  color: #007bff;
-  text-decoration: none;
-  background-color: transparent; }
+    color: #dc3545;
+    text-decoration: none;
+    background-color: transparent;
+}
   a:hover {
     color: #0056b3;
     text-decoration: underline; }
@@ -8218,7 +8219,7 @@ h1, h2, h3, h4, h5,
       color: #fff;
       display: block;
       padding: 10px 30px;
-      background: #2f89fc; }
+      background: #8b2832; }
   #sidebar ul.components {
     padding: 0; 
     margin-right: 15px; }
